@@ -1,0 +1,11 @@
+{
+    "name": "poll-app",
+    "version": "1.0.0",
+    "description": "Simple Poll App",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
